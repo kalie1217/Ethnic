@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data_xml title="Azerbaijan" subtitle="Ethnic Groups" backgroundImage="co_ax_ethnic_bg.png"
+  overlayTextImage="map_overlay.png">
+  <instructions title="Instructions">
+    <content>Select a name to display a hint. Drag the ethnic group name to the appropriate location on the map and drop it into an empty box. If the name is dropped in the correct location, it will change color and remain in place. Information about the group will be displayed. This information can also be accessed by clicking a box already placed on the map. </content>
+  </instructions>
+  <menu>
+    <category title="Ethnic Groups">
+      
+	  
+	  <item title="Azeri" X="260" Y="140" dropBox_X="30" dropBox_Y="80" dropBoxWidth="126"
+        dropBoxHeight="22" image="co_ax_ethnic_azeri.jpg" overlay="co_ax_ethnic_azeri.png"
+        overlay_X="0" overlay_Y="0" copyright="Flickr / Dan Mason" copyMarginRight="10">
+        <content>Comprising about 91% of the population, the Azeri are predominantly Shia Muslims whose language is a Turkic dialect of the Indo-European Persian spoken in Iran.</content>
+        <hint>Hint: Azeri occupy the greatest portion of the country.</hint>
+      </item>
+	  
+	  
+      <item title="Lezgin" X="327" Y="73" dropBox_X="167" dropBox_Y="10" dropBoxWidth="53"
+        dropBoxHeight="22" image="co_ax_ethnic_lezgin.jpg" overlay="co_ax_ethnic_lezgin.png"
+        overlay_X="0" overlay_Y="0" copyright="Wikimedia / Российский этнографический музей" copyMarginRight="10">
+        <content>The Sunni Muslim Lezgin, also known as Dagestani, are the second-largest ethnic group in the country. Although integrated into Azeri society, secessionist factions exist. </content>
+        <hint>Hint: Lezgin live in the northeastern border region.</hint>
+      </item>
+	  
+	  
+      <item title="Russian" X="360" Y="263" dropBox_X="438" dropBox_Y="230" dropBoxWidth="300"
+        dropBoxHeight="22" image="co_ax_ethnic_russian.jpg" overlay="co_ax_ethnic_russian.png"
+        overlay_X="0" overlay_Y="0" copyright="Flickr / Babak Fakhamzadeh" copyMarginRight="10">
+        <content>Once a Soviet republic, Azerbaijan is still home to a small population of Russians, mostly Orthodox Christians who live in predominantly urban areas. </content>
+        <hint>Hint: Russians inhabit small pockets in northeastern and southeastern Azerbaijan. </hint>
+      </item>
+	  
+	  
+	  
+      <item title="Armenian" X="253" Y="200" dropBox_X="70" dropBox_Y="250" dropBoxWidth="126"
+        dropBoxHeight="22" image="co_ax_ethnic_armenian.jpg" overlay="co_ax_ethnic_armenian.png" overlay_X="0"
+        overlay_Y="0" copyright="Flickr / Michael Wong" copyMarginRight="10">
+        <content>The Armenians are mostly Christian, speak Armenian, and have established self-rule, although they are not recognized internationally and have tense relations with Baku.</content>
+        <hint>Hint: Armenians are concentrated in the southwestern region of the country.</hint>
+      </item>
+	 
+	  
+      <item title="Tat" X="370" Y="94" dropBox_X="380" dropBox_Y="30" dropBoxWidth="126"
+        dropBoxHeight="22" image="co_ax_ethnic_tat.jpg" overlay="co_ax_ethnic_tat.png" overlay_X="0"
+        overlay_Y="0" copyright="Wikimedia / Walter Callens" copyMarginRight="10">
+        <content>The Tats are a small ethnic group consisting of Jews, Christians, and Muslims. They are politically influential and speak a language closely related to Farsi. </content>
+        <hint>Hint: Tats occupy an area of northeastern Azerbaijan.</hint>
+      </item>
+	  
+ <item title="Talysh" X="362" Y="287" dropBox_X="425" dropBox_Y="312" dropBoxWidth="126"
+        dropBoxHeight="22" image="co_ax_ethnic_talysh.jpg" overlay="co_ax_ethnic_talysh.png"
+        overlay_X="0" overlay_Y="0" copyright="Wikimedia / А. В. Севрюгин (? - 1933)" copyMarginRight="10">
+        <content>The broadly rural Talysh are predominantly Shia Muslims, speak an Indo-Iranian language, and claim an autonomous region for themselves. </content>
+        <hint>Hint: The Talysh are concentrated in the far southeast of the country.</hint>
+      </item>
+	  
+    </category>
+  </menu>
+</data_xml>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data_xml title="Arabic Morocco" subtitle="Linguistic Groups " backgroundImage="co_bs_geo_bg.png"
+  overlayTextImage="map_overlay.png">
+  <instructions title="Instructions">
+    <content>Click and drag the flags identifying language regions to the appropriate locations on the map. Once a name is selected, the window will display a hint. If a selected name is dropped in the correct location, it will change color and remain in place. Information about the ethnic group will be displayed. This information can also be accessed by clicking a name already placed on the map. </content>
+  </instructions>
+  <menu>
+    <category title="Linguistic Groups">
+      
+	  
+	  <item title="Moroccan" X="263" Y="135" dropBox_X="70" dropBox_Y="80" dropBoxWidth="126"
+        dropBoxHeight="22" image="co_bs_ethnic_moroccan5.jpg" overlay="co_bs_ethnic_moroccan.png"
+        overlay_X="0" overlay_Y="0" copyright="Flickr / Simon Q" copyMarginRight="10">
+        <content>Moroccan Arabic is a spoken dialect that has been influenced by Tamazight, French, and Spanish.</content>
+        <hint>Hint: Moroccan speakers are found primarily along the Atlantic coast. </hint>
+      </item>
+	  
+	  
+      <item title="Tarifit" X="350" Y="87" dropBox_X="160" dropBox_Y="30" dropBoxWidth="53"
+        dropBoxHeight="22" image="co_bs_ethnic_tarifit.jpg" overlay="co_bs_ethnic_tarifit.png"
+        overlay_X="0" overlay_Y="0" copyright="Flickr / Fred Dunn" copyMarginRight="10">
+        <content>Tarifit is one of the Tamazight languages of northern Morocco. It is spoken by people living in the Rif region.</content>
+        <hint>Hint: Tarifit speakers are found primarily in northern Morocco.</hint>
+      </item>
+	  
+	  
+      <item title="Tamazight" X="339" Y="156" dropBox_X="438" dropBox_Y="214" dropBoxWidth="126"
+        dropBoxHeight="22" image="co_bs_ethnic_tamazight.jpg" overlay="co_bs_ethnic_tamazight.png"
+        overlay_X="0" overlay_Y="0" copyright="Flickr / JuanjoMayan" copyMarginRight="10">
+        <content>Tamazight has been a written language for over 2,000 years. The name Tamazight is also used to refer to other non-Arabic languages in Morocco.  </content>
+        <hint>Hint: Tamazight speakers are found primarily in central Morocco. </hint>
+      </item>
+	  
+	  
+	  
+      <item title="Tachelhit" X="226" Y="236" dropBox_X="80" dropBox_Y="190" dropBoxWidth="126"
+        dropBoxHeight="22" image="co_bs_ethnic_tachelhit2.jpg" overlay="co_bs_ethnic_tachelhit.png" overlay_X="0"
+        overlay_Y="0" copyright="Flickr / Sergey Pesterev" copyMarginRight="10">
+        <content>Tachelhit speakers are primarily indigenous non-Arabs, mostly Sunni Muslims, who live in the southwest of Morocco.</content>
+        <hint>Hint: Tachelhit speakers are found primarily in southwestern Morocco.</hint>
+      </item>
+	  
+	
+
+    </category>
+  </menu>
+</data_xml>
